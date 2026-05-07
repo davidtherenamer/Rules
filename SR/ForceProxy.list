@@ -1,0 +1,35 @@
+# TITLE: Force Proxy
+# FORMAT: Shadowrocket
+# NOTE: Non-geo-locked services only
+
+# Apple Podcasts
+DOMAIN-SUFFIX,podcasts.apple.com
+
+# Fandango
+DOMAIN-SUFFIX,fandango.com
+DOMAIN-SUFFIX,vudu.com
+
+# Overcast
+DOMAIN-SUFFIX,overcast.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,overcast-cdn.com
+
+# Z-lib
+DOMAIN-SUFFIX,fcdn.sk
+DOMAIN-SUFFIX,z-library.sk
+
+DOMAIN-SUFFIX,alfred.app
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,doppiocdn.media
+DOMAIN-SUFFIX,ftchinese.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,openrss.org
+DOMAIN-SUFFIX,pocketcasts.com
+DOMAIN-SUFFIX,setapp.com
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,wiktionary.org
+DOMAIN-SUFFIX,xhcdn.com
