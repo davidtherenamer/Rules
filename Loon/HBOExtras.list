@@ -1,0 +1,5 @@
+# HBO Extras
+# Complementing https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Loon/HBO/HBO.list
+# Format: Loon
+
+DOMAIN-SUFFIX,api.discomax.com
