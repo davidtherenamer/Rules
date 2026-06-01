@@ -9,6 +9,10 @@ DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,vudu.com
 
+# OneDrive
+DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
+DOMAIN-SUFFIX,aa-rt.sharepoint.com
+
 # Overcast
 DOMAIN-SUFFIX,overcast.com
 DOMAIN-SUFFIX,overcast.fm
