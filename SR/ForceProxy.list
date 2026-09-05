@@ -9,9 +9,9 @@ DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,vudu.com
 
-# OneDrive
-DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
-DOMAIN-SUFFIX,aa-rt.sharepoint.com
+# NPR
+DOMAIN-SUFFIX,brightspotcdn.com
+DOMAIN-KEYWORD,npr-brightspot
 
 # Overcast
 DOMAIN-SUFFIX,overcast.com
@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,overcast-cdn.com
 
 # Z-lib
-DOMAIN-SUFFIX,fcdn.sk
+# DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,z-library.sk
 
 DOMAIN-SUFFIX,alfred.app
