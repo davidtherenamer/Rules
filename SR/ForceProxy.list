@@ -9,10 +9,6 @@ DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,vudu.com
 
-# NPR
-DOMAIN-SUFFIX,brightspotcdn.com
-DOMAIN-KEYWORD,npr-brightspot
-
 # Overcast
 DOMAIN-SUFFIX,overcast.com
 DOMAIN-SUFFIX,overcast.fm
