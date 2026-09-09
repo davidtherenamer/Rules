@@ -1,7 +1,6 @@
 # TITLE: NPR
 # FORMAT: Shadowrocket
 
-DOMAIN-SUFFIX,brightspotcdn.com
 DOMAIN-SUFFIX,npr.org
 DOMAIN-KEYWORD,npr-brightspot
 DOMAIN,npr.simplecastaudio.com
