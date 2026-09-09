@@ -2,6 +2,7 @@
 # FORMAT: Shadowrocket
 
 DOMAIN-SUFFIX,brightspotcdn.com
-DOMAIN-KEYWORD,npr
+DOMAIN-SUFFIX,npr.org
 DOMAIN-KEYWORD,npr-brightspot
-DOMAIN-SUFFIX,npr.simplecastaudio.com
+DOMAIN,npr.simplecastaudio.com
+DOMAIN,fastlane.rubiconproject.com
